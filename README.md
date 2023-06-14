@@ -79,5 +79,5 @@ To run, follow these steps:
 ## Creators
 
 - [@chekuri shireesha]()
-- [@dokana praveen]()
+- [@donkana praveen]()
 - [@dondapati aravind]()
